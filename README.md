@@ -13,6 +13,10 @@ MATLAB: contains scripts used for blog posts on gesskelly.com. Particle repulsio
 
 
 python: contains scripts used for https://www.gesskelly.com/blog-1-1/blog-1 and https://www.gesskelly.com/blog-1-1/switch-statements-part-1 
+3 ML projects, bees, car, and lung
+1 forecasting project in progress (strong_data) trying to predict future weights
+some other side projects 
+
 
 
 
