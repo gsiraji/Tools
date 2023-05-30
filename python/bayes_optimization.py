@@ -27,3 +27,5 @@ opt = BayesSearchCV(
 
 opt.fit(X,y)
 
+print('Optimized HPs:', opt.best_params_)
+print('Score:', opt.best_score_)
